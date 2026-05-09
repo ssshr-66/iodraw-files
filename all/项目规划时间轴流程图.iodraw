@@ -13,7 +13,7 @@
         <mxCell id="9KP1xSRaD15IPT912Mw--42" value="大三" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="190" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--43" value="实施开发" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="9KP1xSRaD15IPT912Mw--43" value="大四" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=15;fillColor=#009900;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="710" y="190" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9KP1xSRaD15IPT912Mw--44" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.138;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontSize=15;" parent="1" source="9KP1xSRaD15IPT912Mw--40" target="9KP1xSRaD15IPT912Mw--41" edge="1">
@@ -120,7 +120,7 @@
         <mxCell id="9KP1xSRaD15IPT912Mw--63" value="1.大三上，矩阵起源 数据库内核研发实习经历&lt;br style=&quot;font-size: 15px;&quot;&gt;2.大三下，小红书 云原生存储研发实习经历" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="450" y="280" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9KP1xSRaD15IPT912Mw--64" value="1.解析实现方案&lt;br style=&quot;font-size: 15px;&quot;&gt;2.确定技术实现&lt;br style=&quot;font-size: 15px;&quot;&gt;3.项目基础搭建&lt;br style=&quot;font-size: 15px;&quot;&gt;4.代码逻辑开发" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="9KP1xSRaD15IPT912Mw--64" value="1.秋招/春招进互联网" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="660" y="280" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9KP1xSRaD15IPT912Mw--65" value="找实习" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=15;" parent="1" vertex="1" connectable="0">
